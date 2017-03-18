@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "816698295738",
+    "project_id": "product-demo-6ab2d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816698295738:android:587424e8aec38009",
+        "android_client_info": {
+          "package_name": "demo.beaconvalley.kolektiv.tech.kolektivbeaconvalleydem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonmUzsUn6IM5EA4yoiAOMzEliuQ39g7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

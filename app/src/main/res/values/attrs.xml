@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimatedCircle">
+        <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="strokeProgress" format="integer" />
+        <attr name="strokeColor" format="color" />
+        <attr name="circleColor" format="color" />
+        <attr name="strokeThickness" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
